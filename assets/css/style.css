@@ -160,7 +160,7 @@
   .portfolio div {
     /* padding: 100px; */
     border: solid #777 1px;
-    margin: 10px;
+    margin: 6.5px;
     display: inline-block;
     color: #fff;
     font-size: 1.5em;
@@ -173,7 +173,7 @@
   .portfolio p {
     background-color: #1f8390;
     padding: 10px 30px;
-    display: block;
+    display: inline-flex;
     margin-top: 40%;
   }
   
